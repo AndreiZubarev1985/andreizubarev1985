@@ -148,4 +148,4 @@ Professional development, courses
 
 7. English language skills:
 
-B1- Intermediate
+Upper-Intermediate
