@@ -9,7 +9,7 @@
 4. Basic Skills: 
  
 - Langugage: JavaScript, HTML, CSS (preprocessors: SASS). 
-- Frameworks: Bootstrap, React.js (initial level).
+- Frameworks: Bootstrap, React.js, Node.js.
 - Deploy: GitHub.
 
 5. My code examples are here: 
